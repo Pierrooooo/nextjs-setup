@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className="main">
         <h1 className="title">
-          This is <a href="https://wwww.8pier.re">My Portfolio</a>
+          This is <a target="blank" href="https://www.8pier.re">My Portfolio</a>
         </h1>
       </main>
     </div>
